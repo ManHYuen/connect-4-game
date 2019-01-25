@@ -131,7 +131,7 @@ function diagonalWinCheck(){
     }
 }
 
-// create a end game function
+// create an end game function
 function gameEnd(player){
     $('h3').fadeOut('fast');
     $('h2').fadeOut('fast');
